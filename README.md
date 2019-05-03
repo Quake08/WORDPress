@@ -19,6 +19,8 @@ project of JBARI MANSORI Magid
 
 * The links of the site: "https://joseph.webtech.one/foodog/"
 
+*Kanban with trello : "https://trello.com/b/UKSKwPZ1/foodog-wordpress" by Josesh Ismail
+
 * Progress: 
 	* 22 april 2019: project beginning.
 	* 03 march 2019: project end.
